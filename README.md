@@ -8,9 +8,15 @@ Here I will display the final results of the assignments I was assigned as part 
 My name is Jacob Remz and I am currently a junior at Worcester Polytechnic Institute taking [CS3041 Human Computer Interaction](https://cs3041-18d.github.io/) as taught by professor [Lane Harrison](https://web.cs.wpi.edu/~ltharrison/).
 
 ## The Design Procces
-Professor Harrison has given us, his class, a new project to work on each week. I have choosen four of these one week assignments to highlight as examples of different aspects of my design process.
+Professor Harrison has structured CS3041 as a series of one week design sprints in which groups of students are expected to produce material focused around that weeks theme. I have choosen four of these one week assignments to highlight as examples of different aspects of my design process.
+
+
+## Design Portfolio
+The following are links with images and short desriptions of the four one week assignments I mentioned in the earlier section about my design procces.
 
 ### [Design For Others](https://medium.com/@john3r8amaral/design-for-others-3dfa42f7211c)
+
+
 ### [Design For Understanding](https://medium.com/@mariana0pachon/religiousness-and-income-of-us-regions-327de34debbd)
 ### [Design For Tension](https://medium.com/@michaelbosik/design-for-tension-group-13-e49fcef641b2)
 ### [Design For Wellbeing](https://medium.com/@pawandodani/design-for-wellbeing-163aeea0f2ff)
