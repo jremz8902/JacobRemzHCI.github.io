@@ -15,7 +15,7 @@ Professor Harrison has structured CS3041 as a series of one week design sprints 
 The following are links with images and short desriptions of the four one week assignments I mentioned in the earlier section about my design procces.
 
 ### [Design For Others](https://medium.com/@john3r8amaral/design-for-others-3dfa42f7211c)
-
+![Image](ezgif-5-38e9e15320.gif)
 
 ### [Design For Understanding](https://medium.com/@mariana0pachon/religiousness-and-income-of-us-regions-327de34debbd)
 ### [Design For Tension](https://medium.com/@michaelbosik/design-for-tension-group-13-e49fcef641b2)
