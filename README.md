@@ -1,4 +1,4 @@
-![Image](src)
+![Image](JacobHills.jpg)
 
 ## Design Manifesto
 This is my Design Manifesto website for my Human Computer Interaction course at Worcester Polytechnic Institute.
