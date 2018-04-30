@@ -4,6 +4,9 @@
 This is my Design Manifesto website for my Human Computer Interaction course at Worcester Polytechnic Institute.
 Here I will display the final results of the assignments I was assigned as part of the afformentioned Human Computer Interaction Course.
 
+### About Me...
+My name is Jacob Remz and I am currently a junior at Worcester Polytechnic Institute taking [CS3041 Human Computer Interaction](https://cs3041-18d.github.io/) as taught by professor [Lane Harrison](https://web.cs.wpi.edu/~ltharrison/).
+
 ### [Design For Others](https://medium.com/@john3r8amaral/design-for-others-3dfa42f7211c)
 ### [Design For Understanding](https://medium.com/@mariana0pachon/religiousness-and-income-of-us-regions-327de34debbd)
 ### [Design For Tension](https://medium.com/@michaelbosik/design-for-tension-group-13-e49fcef641b2)
