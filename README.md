@@ -1,9 +1,14 @@
-﻿## Welcome to GitHub Pages
+![Image](src)
 
-You can use the [editor on GitHub](https://github.com/jremz8902/JacobRemzHCI.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Design Manifesto
+This is my Design Manifesto website for my Human Computer Interaction course at Worcester Polytechnic Institute.
+Here I will display the final results of the assignments I was assigned as part of the afformentioned Human Computer Interaction Course.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+### [Design For Others](https://medium.com/@john3r8amaral/design-for-others-3dfa42f7211c)
+### [Design For Understanding](https://medium.com/@mariana0pachon/religiousness-and-income-of-us-regions-327de34debbd)
+### [Design For Tension](https://medium.com/@michaelbosik/design-for-tension-group-13-e49fcef641b2)
+### [Design For Wellbeing](https://medium.com/@pawandodani/design-for-wellbeing-163aeea0f2ff)
+ 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
