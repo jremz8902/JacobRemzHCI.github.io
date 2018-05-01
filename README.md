@@ -1,7 +1,5 @@
 ![Image](JacobHills.jpg)
 
-
-
 ## About Me...
 My name is Jacob Remz and I am currently a junior at Worcester Polytechnic Institute taking [CS3041 Human Computer Interaction](https://cs3041-18d.github.io/) as taught by Professor [Lane Harrison](https://web.cs.wpi.edu/~ltharrison/).
 
