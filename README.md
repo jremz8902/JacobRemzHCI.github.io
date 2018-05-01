@@ -16,6 +16,7 @@ Professor Harrison has structured CS3041 as a series of one week design sprints 
 The goal of this projet was to redesign a local organizations website for mobile while keeping in mind a specific target demographic. We decied on redeisigning a local makerspaces, Technicopia, website and our demographic was "people in their 20s." The origional version of the website can be found [here](http://technocopia.org/) and the redesigned version of the site can be found [here](https://projects.invisionapp.com/share/QFGHPYV2ZK5). This project is a good example of the use of the *Wizard of Oz* technique because we utilized [Invision](https://www.invisionapp.com/) to stitch together images and to provide the small amounts of interaction we needed to fake a somewhat functional website. 
 
 ### [Design For Understanding](https://medium.com/@mariana0pachon/religiousness-and-income-of-us-regions-327de34debbd)
+
 ### [Design For Tension](https://medium.com/@michaelbosik/design-for-tension-group-13-e49fcef641b2)
 ### [Design For Wellbeing](https://medium.com/@pawandodani/design-for-wellbeing-163aeea0f2ff)
  
