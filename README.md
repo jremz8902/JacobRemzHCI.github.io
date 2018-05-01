@@ -31,6 +31,6 @@ This project was a data visualization exersize and is a great example of that ve
 This assignment was to create a chatbot to communicate with users about a contraversial topic. My group choose to use school uniforms as our debate topic and designed our chatbot so that it would side against whichever side the user choose. Our process behind the creation of this chatbot was hindered by the learning curve of the software we were using, but we used that learning time to preform user tests with the scripts we wrote for the bot to follow. To ensure usability would be high chatbot responses that were dependant on specific user messages provided users with buttons to use as their replies.
 
 
-### [Design For Another World](https://www.Google.com)
+### [Design For Another World](https://medium.com/@lukeypsilantis/design-for-another-world-6487db2ae039)
 ![Image](Fuller level one.PNG)
 This assignment was to create a VR world to transport users elseware. My groups approach was to create something that would serve as a utility to users so we created a virtual tour of Worcester Polytechnic Institute's Fuller Labratories.
