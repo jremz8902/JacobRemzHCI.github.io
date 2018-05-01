@@ -19,6 +19,8 @@ The goal of this projet was to redesign a local organizations website for mobile
 
 ![Image](0_KugvdHhuEehGU5nS_.png)
 ![Image](0_fKq1yXIjasyuY0-j_.png)
+This project was a data visualization exersize and is a great example of that very thing. As a group we were responsible for two sets of visualizations. The first set of visualizations was intended to persuade the reader of something by presenting the information in a unique and interesting way, the second set was supposed to present the data in an impartial matter via easily interpreted and readable visualizations. For this assignment I was part of the subteam responsible for the second set of data visusalizations and to accomplish our goal we used the data visualization tool [Tableau](https://www.tableau.com/). Tableau allowed for us to easily (after a learning curve) create visualizations that facilitated viewers abilities to quickly interpret the differances that exist within the dataset we used.
+
 ### [Design For Tension](https://medium.com/@michaelbosik/design-for-tension-group-13-e49fcef641b2)
 ### [Design For Wellbeing](https://medium.com/@pawandodani/design-for-wellbeing-163aeea0f2ff)
  
