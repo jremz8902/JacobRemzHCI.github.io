@@ -24,4 +24,8 @@ The goal of this projet was to redesign a local organizations website for mobile
 This project was a data visualization exersize and is a great example of that very thing. As a group we were responsible for two sets of visualizations. The first set of visualizations was intended to persuade the reader of something by presenting the information in a unique and interesting way, the second set was supposed to present the data in an impartial matter via easily interpreted and readable visualizations. For this assignment I was part of the subteam responsible for the second set of data visusalizations and to accomplish our goal we used the data visualization tool [Tableau](https://www.tableau.com/). Tableau allowed for us to easily (after a learning curve) create visualizations that facilitated viewers abilities to quickly interpret the differances that exist within the dataset we used.
 
 ### [Design For Tension](https://medium.com/@michaelbosik/design-for-tension-group-13-e49fcef641b2)
+[VIDEO](https://www.youtube.com/watch?v=3slmotxxbrQ)
+This assignment was to create a chatbot to communicate with users about a contraversial topic. My group choose to use school uniforms as our debate topic and designed our chatbot so that it would side against whichever side the user choose. Our process behind the creation of this chatbot was hindered by the learning curve of the software we were using, but we used that learning time to preform user tests with the scripts we wrote for the bot to follow. To ensure usability would be high chatbot responses that were dependant on specific user messages provided users with buttons to use as their replies.
+
+
 ### [Design For Wellbeing](https://medium.com/@pawandodani/design-for-wellbeing-163aeea0f2ff)
