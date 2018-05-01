@@ -17,6 +17,8 @@ The goal of this projet was to redesign a local organizations website for mobile
 
 ### [Design For Understanding](https://medium.com/@mariana0pachon/religiousness-and-income-of-us-regions-327de34debbd)
 
+![Image](0_KugvdHhuEehGU5nS_.png)
+![Image](0_fKq1yXIjasyuY0-j_.png)
 ### [Design For Tension](https://medium.com/@michaelbosik/design-for-tension-group-13-e49fcef641b2)
 ### [Design For Wellbeing](https://medium.com/@pawandodani/design-for-wellbeing-163aeea0f2ff)
  
