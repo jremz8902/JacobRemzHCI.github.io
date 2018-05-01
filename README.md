@@ -8,11 +8,11 @@ My name is Jacob Remz and I am currently a junior at Worcester Polytechnic Insti
 # Design Manifesto
 As a result of my taking CS3041 with Professor Harrison I have developed my own personal design process:
 
-1. * Brainstorm Any and all possible ideas that tie into what you are trying to accomplish
-2. * Considering the tools and abilities you have available decide on a idea from the pool of brainstormed concepts
-3. * Consider how a user would interact with the end product
-4. * Use your tools and abilities to create something that satisfies what the user wants, maximizing the usability
-5. * Find users to test your creation, take notes based on their interactions, and repeat this procces as nessisarry
+ * Brainstorm Any and all possible ideas that tie into what you are trying to accomplish
+ * Considering the tools and abilities you have available decide on a idea from the pool of brainstormed concepts
+ * Consider how a user would interact with the end product
+ * Use your tools and abilities to create something that satisfies what the user wants, maximizing the usability
+ * Find users to test your creation, take notes based on their interactions, and repeat this procces as nessisarry
 
 ## Design Portfolio
 Professor Harrison has structured CS3041 as a series of one week design sprints in which groups of students are expected to produce material focused around that weeks theme. I have choosen four of these one week assignments to highlight as examples of different aspects of my design process. The following are links with images and short desriptions of each of the four one week assignments.
